@@ -1,0 +1,8 @@
+C:\UCSD\csharpthree\Lab3\SharedLib\bin\Debug\netstandard2.0\SharedLib.deps.json
+C:\UCSD\csharpthree\Lab3\SharedLib\bin\Debug\netstandard2.0\SharedLib.dll
+C:\UCSD\csharpthree\Lab3\SharedLib\bin\Debug\netstandard2.0\SharedLib.pdb
+C:\UCSD\csharpthree\Lab3\SharedLib\obj\Debug\netstandard2.0\SharedLib.csprojAssemblyReference.cache
+C:\UCSD\csharpthree\Lab3\SharedLib\obj\Debug\netstandard2.0\SharedLib.AssemblyInfoInputs.cache
+C:\UCSD\csharpthree\Lab3\SharedLib\obj\Debug\netstandard2.0\SharedLib.AssemblyInfo.cs
+C:\UCSD\csharpthree\Lab3\SharedLib\obj\Debug\netstandard2.0\SharedLib.dll
+C:\UCSD\csharpthree\Lab3\SharedLib\obj\Debug\netstandard2.0\SharedLib.pdb

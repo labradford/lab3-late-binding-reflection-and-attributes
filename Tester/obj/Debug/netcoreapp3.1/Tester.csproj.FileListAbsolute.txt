@@ -1,0 +1,11 @@
+C:\UCSD\csharpthree\Lab3\Tester\bin\Debug\netcoreapp3.1\Tester.exe
+C:\UCSD\csharpthree\Lab3\Tester\bin\Debug\netcoreapp3.1\Tester.deps.json
+C:\UCSD\csharpthree\Lab3\Tester\bin\Debug\netcoreapp3.1\Tester.runtimeconfig.json
+C:\UCSD\csharpthree\Lab3\Tester\bin\Debug\netcoreapp3.1\Tester.runtimeconfig.dev.json
+C:\UCSD\csharpthree\Lab3\Tester\bin\Debug\netcoreapp3.1\Tester.dll
+C:\UCSD\csharpthree\Lab3\Tester\bin\Debug\netcoreapp3.1\Tester.pdb
+C:\UCSD\csharpthree\Lab3\Tester\obj\Debug\netcoreapp3.1\Tester.csprojAssemblyReference.cache
+C:\UCSD\csharpthree\Lab3\Tester\obj\Debug\netcoreapp3.1\Tester.AssemblyInfoInputs.cache
+C:\UCSD\csharpthree\Lab3\Tester\obj\Debug\netcoreapp3.1\Tester.AssemblyInfo.cs
+C:\UCSD\csharpthree\Lab3\Tester\obj\Debug\netcoreapp3.1\Tester.dll
+C:\UCSD\csharpthree\Lab3\Tester\obj\Debug\netcoreapp3.1\Tester.pdb
